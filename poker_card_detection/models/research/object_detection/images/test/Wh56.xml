@@ -1,0 +1,38 @@
+<annotation>
+	<folder>compressed in One</folder>
+	<filename>Wh56.jpeg</filename>
+	<path>C:\Disk\Data\Masters\Resrc\AI\Cards\compressed\compressed in One\Wh56.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>six</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>8</ymin>
+			<xmax>799</xmax>
+			<ymax>915</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>four</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>533</xmin>
+			<ymin>6</ymin>
+			<xmax>1186</xmax>
+			<ymax>918</ymax>
+		</bndbox>
+	</object>
+</annotation>

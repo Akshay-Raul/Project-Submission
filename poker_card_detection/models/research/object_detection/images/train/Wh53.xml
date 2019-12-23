@@ -1,0 +1,38 @@
+<annotation>
+	<folder>compressed in One</folder>
+	<filename>Wh53.jpeg</filename>
+	<path>C:\Disk\Data\Masters\Resrc\AI\Cards\compressed\compressed in One\Wh53.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>944</width>
+		<height>868</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>18</ymin>
+			<xmax>619</xmax>
+			<ymax>845</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>three</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>6</ymin>
+			<xmax>918</xmax>
+			<ymax>851</ymax>
+		</bndbox>
+	</object>
+</annotation>

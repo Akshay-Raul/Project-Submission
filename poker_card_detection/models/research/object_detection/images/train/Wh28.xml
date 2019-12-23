@@ -1,0 +1,38 @@
+<annotation>
+	<folder>compressed in One</folder>
+	<filename>Wh28.jpeg</filename>
+	<path>C:\Disk\Data\Masters\Resrc\AI\Cards\compressed\compressed in One\Wh28.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1028</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ten</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>284</ymin>
+			<xmax>959</xmax>
+			<ymax>1005</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>jack</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>7</ymin>
+			<xmax>960</xmax>
+			<ymax>688</ymax>
+		</bndbox>
+	</object>
+</annotation>

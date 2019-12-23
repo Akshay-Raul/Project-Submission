@@ -1,0 +1,38 @@
+<annotation>
+	<folder>compressed in One</folder>
+	<filename>Wh11.jpeg</filename>
+	<path>C:\Disk\Data\Masters\Resrc\AI\Cards\compressed\compressed in One\Wh11.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>472</width>
+		<height>498</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>king</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>9</ymin>
+			<xmax>331</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>queen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>91</ymin>
+			<xmax>461</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+</annotation>
